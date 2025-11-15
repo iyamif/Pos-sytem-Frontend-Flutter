@@ -39,37 +39,34 @@ Email : kasri@pos.com
 Password : password123
 ```
 ---
+# 🚀 Fitur Utama
 
-## 🚀 Fitur Utama
-**1. Authentication**
+### 🔐 Authentication
 - Login menggunakan email & password
-- Token berbasis Laravel Sanctum
-- Mendukung Two-Factor Authentication (2FA) (OTP)
-  
-**2. Product Management**
-- List produk
-- Input & edit produk
-- Manajemen stok
-- Kategori produk
+- Laravel Sanctum token authentication
+- Two-Factor Authentication (2FA) menggunakan OTP
 
-**3. POS (Kasir)**
-- input nama customer
-- pilih produk
-- Cart system
+### 🛒 POS (Kasir)
+- Tambah produk ke cart
 - Hitung total otomatis
-- Simpan transaksi
+- Proses transaksi cepat
 - Pengurangan stok otomatis setelah transaksi
-  
-**4. Inventory Management**
-- Lihat stok produk secara detail
-- Filter barang mendekati habis
+
+### 📦 Product Management
+- List produk
+- CRUD produk
+- Kelola stok & kategori
+
+### 📊 Inventory
+- Lihat stok real-time
+- Filter stok rendah
 - Riwayat perubahan stok
-  
-**5. Supplier & Purchase Order**
+
+### 📑 Supplier & Purchase Order
 - Data supplier
-- Pencatatan pembelian barang
-  
-**6. Order History**
+- Riwayat pembelian barang
+
+### 🧾 Order History
 - Riwayat transaksi lengkap
-- Detail setiap penjualan
+- Detail penjualan per item
 

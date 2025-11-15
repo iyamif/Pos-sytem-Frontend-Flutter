@@ -12,6 +12,21 @@ Aplikasi ini dirancang untuk kasir, admin toko, atau bisnis retail dengan fitur 
 - Backend: Laravel POS API (Sanctum)
 ---
 
+### Clone the repository from github.
+
+```bash
+https://github.com/iyamif/Pos-System-Backend-Laravel.git
+```
+---
+
+**Struktur Folder**
+lib/
+│
+├── pages/            # Halaman UI (POS, Product, Inventory, Login, dll)
+├── services/         # ApiService, AuthService
+
+---
+
 ## 🚀 Fitur Utama
 **1. Authentication**
 - Login menggunakan email & password

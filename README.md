@@ -77,9 +77,12 @@ https://github.com/iyamif/Pos-System-Backend-Laravel.git
 ```
 ---
 ### 🤝 Contributing
+
 Pull request welcome!
+
 ---
 ### 📄 License
 MIT License.
+
 Silakan gunakan & modifikasi sesuai kebutuhan.
 

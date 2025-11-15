@@ -70,3 +70,16 @@ Password : password123
 - Riwayat transaksi lengkap
 - Detail penjualan per item
 
+---
+### 🧪 API Backend
+```bash
+https://github.com/iyamif/Pos-System-Backend-Laravel.git
+```
+---
+### 🤝 Contributing
+Pull request welcome!
+---
+### 📄 License
+MIT License.
+Silakan gunakan & modifikasi sesuai kebutuhan.
+

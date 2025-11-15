@@ -13,15 +13,17 @@ Aplikasi ini dirancang untuk kasir, admin toko, atau bisnis retail dengan fitur 
 ---
 
 ## 🚀 Fitur Utama
-- 🟦 1. Authentication
+## 🟦 1. Authentication
 Login menggunakan email & password
 Token berbasis Laravel Sanctum
 Mendukung Two-Factor Authentication (2FA) (OTP)
+---
 - 🟦 2. Product Management
 List produk
 Input & edit produk
 Manajemen stok
 Kategori produk
+
 - 🟦 3. POS (Kasir)
 Scan / pilih produk
 Cart system

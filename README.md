@@ -18,13 +18,10 @@ Aplikasi ini dirancang untuk kasir, admin toko, atau bisnis retail dengan fitur 
 https://github.com/iyamif/Pos-System-Backend-Laravel.git
 ```
 ---
-
-**Struktur Folder**
-lib/
-│
-├── pages/            # Halaman UI (POS, Product, Inventory, Login, dll)
-├── services/         # ApiService, AuthService
-
+### Install dependencies
+```bash
+flutter pub get
+```
 ---
 
 ## 🚀 Fitur Utama

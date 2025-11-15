@@ -14,7 +14,7 @@ Aplikasi ini dirancang untuk kasir, admin toko, atau bisnis retail dengan fitur 
 
 ### Clone the repository from github.
 ```bash
-https://github.com/iyamif/Pos-System-Backend-Laravel.git
+https://github.com/iyamif/Pos-sytem-Frontend-Flutter.git
 ```
 ### Install dependencies
 ```bash

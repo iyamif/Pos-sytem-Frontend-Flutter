@@ -27,8 +27,8 @@ flutter run
 ---
 ### 👤 Login Default (Jika pakai seeder Laravel)
 ```
-Email : admin@example.com
-Password : password
+Email : kasri@pos.com
+Password : password123
 ```
 ---
 

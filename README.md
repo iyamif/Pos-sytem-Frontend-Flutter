@@ -17,24 +17,29 @@ Aplikasi ini dirancang untuk kasir, admin toko, atau bisnis retail dengan fitur 
 - Login menggunakan email & password
 - Token berbasis Laravel Sanctum
 - Mendukung Two-Factor Authentication (2FA) (OTP)
+  
 **🟦 2. Product Management**
-List produk
-Input & edit produk
-Manajemen stok
-Kategori produk
+- List produk
+- Input & edit produk
+- Manajemen stok
+- Kategori produk
+
 **🟦 3. POS (Kasir)**
 - Scan / pilih produk
 - Cart system
 - Hitung total otomatis
 - Simpan transaksi
 - Pengurangan stok otomatis setelah transaksi
+  
 **🟦 4. Inventory Management**
 - Lihat stok produk secara detail
 - Filter barang mendekati habis
 - Riwayat perubahan stok
+  
 **🟦 5. Supplier & Purchase Order**
 - Data supplier
 - Pencatatan pembelian barang
+  
 **🟦 6. Order History**
 - Riwayat transaksi lengkap
 - Detail setiap penjualan

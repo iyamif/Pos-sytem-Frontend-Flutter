@@ -25,6 +25,12 @@ flutter pub get
 flutter run
 ```
 ---
+##👤 Login Default (Jika pakai seeder Laravel)
+```
+Email : admin@example.com
+Password : password
+```
+---
 
 ## 🚀 Fitur Utama
 **1. Authentication**

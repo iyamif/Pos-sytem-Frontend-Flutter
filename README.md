@@ -4,6 +4,16 @@ Aplikasi Point of Sale (POS) berbasis Flutter yang terhubung dengan REST API Lar
 Aplikasi ini dirancang untuk kasir, admin toko, atau bisnis retail dengan fitur lengkap seperti manajemen produk, transaksi penjualan, supplier, dan inventory.
 
 ---
+## 🔰 Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.x-blue" />
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green" />
+  <img src="https://img.shields.io/badge/Backend-Laravel%2010-red" />
+  <img src="https://img.shields.io/badge/License-MIT-yellow" />
+  <img src="https://img.shields.io/github/stars/your-username/your-repo?style=social" />
+</p>
+---
 ## 🛠 Tech Stack
 - Flutter 3+
 - Dart

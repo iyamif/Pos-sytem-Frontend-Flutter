@@ -20,6 +20,10 @@ https://github.com/iyamif/Pos-System-Backend-Laravel.git
 ```bash
 flutter pub get
 ```
+### Jalankan aplikasi
+```bash
+flutter run
+```
 ---
 
 ## 🚀 Fitur Utama

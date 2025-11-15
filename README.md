@@ -25,7 +25,8 @@ Aplikasi ini dirancang untuk kasir, admin toko, atau bisnis retail dengan fitur 
 - Kategori produk
 
 **3. POS (Kasir)**
-- Scan / pilih produk
+- input nama customer
+- pilih produk
 - Cart system
 - Hitung total otomatis
 - Simpan transaksi

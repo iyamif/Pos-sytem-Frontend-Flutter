@@ -47,6 +47,7 @@ Password : password123
 - Two-Factor Authentication (2FA) menggunakan OTP
 
 ### 🛒 POS (Kasir)
+- Input nama Customer
 - Tambah produk ke cart
 - Hitung total otomatis
 - Proses transaksi cepat
@@ -83,6 +84,5 @@ Pull request welcome!
 ---
 ### 📄 License
 MIT License.
-
 Silakan gunakan & modifikasi sesuai kebutuhan.
 
